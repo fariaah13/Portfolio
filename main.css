@@ -1,0 +1,22 @@
+.titleStyle{
+    margin: 10px;
+
+}
+
+.aboutMe{
+    text-align: justify;
+}
+
+.carousel{
+    height: 200px;
+    max-width: 300px;
+}
+
+.stylePhotos{
+    text-align: center;
+}
+.footerStyle{
+    background-color: slategrey;
+    text-align: center;
+    height: 35px;
+}
